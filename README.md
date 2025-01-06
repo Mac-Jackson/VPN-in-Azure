@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/nBkHqaM.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/62ccef8e-885d-491d-821a-b8555a416e67" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 
 <h1>How to Setup and Use a VPN | ProtonVPN</h1>
