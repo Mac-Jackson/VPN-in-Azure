@@ -51,30 +51,37 @@ Now, I can head over to ProtonVPN and sign up for a free account:  <br/>
 <br />
 <br />
 After I made my account, I can now download the Windows version in the downloads tab:  <br/>
-<img src="https://i.imgur.com/KYdNGNv.png" height="80%" width="80%" alt="Setting Up in Azure"/> 
+<img src="https://github.com/user-attachments/assets/ab4f1af6-e948-457d-a10b-c8e178098546" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
 The download will start, and then I'll install the VPN client. It will then have a pop-up for me to sign in with my ProtonVPN account I just made:  <br/>
-<img src="https://i.imgur.com/8Kn8q2w.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/8b798ffa-5375-4cd9-96fc-c9545d0b2076" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
 After I sign in, it will take me to the homepage where I can start a VPN connection:  <br/>
-<img src="https://i.imgur.com/cup7xHR.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/3410613e-77c8-40d9-b0dd-9f50a4b9866c" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
 I'll click on "Quick Connect," and it will choose and start a VPN connection for me:
-<img src="https://i.imgur.com/uMCJ8Px.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/9f266711-ae9d-4c88-8927-a9bf933490cb" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
 Now, if I go back to the IP address website and refresh the page, it shows me that I am in Romania instead of Canada, and I have another different IP address:  <br/>
-<img src="https://i.imgur.com/bmCGOuW.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/9b6c0a6b-32aa-4b71-8ff3-c80ee270d86a" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
 Also, while connected to the VPN, I can go to different sites like www.google.com and www.netflix.com to see the difference compared to if I were on these sites within my physical computer browser:  <br/>
-<img src="https://i.imgur.com/AlHOv92.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/66ee2cc8-68c9-4d93-91b9-428ec0033b45" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
-<img src="https://i.imgur.com/UrfIVcB.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/af94bdbe-2f12-4004-a4d6-69495e3473f7" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 <br />
 
